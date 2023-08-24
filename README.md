@@ -1,5 +1,5 @@
 # oshk-community
-Open Source HK Community is a Git repo to organise what we are doing for the community. We are looking for volunteers who can contribute to the community.
+Open Source HK Community is a public Git repo to organise what we are doing for the community. We are looking for volunteers who can contribute to the community.
 
 ## What are we doing?
 
